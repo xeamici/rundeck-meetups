@@ -1,0 +1,13 @@
+- name: APAC Rundeck by PagerDuty Meetup
+date: 2025-02-27
+   	link: https://www.meetup.com/rundeck-asia-pacific-group/events/306098981/ 
+  Talks:
+- name: Automating with Rundeck for Smarter Operations
+presentation by: Jade Chen, Associate DevOps Engineer at MYOB
+document: [2025 February] APAC Rundeck by PagerDuty Meetup.pdf 
+recording: https://youtu.be/2oRkF7NInYs
+
+- name: Self-Service Automation with Rundeck
+presentation by: Himanshu Singh, Solutions Consultant at PagerDuty
+document: [2025 February] APAC Rundeck by PagerDuty Meetup.pdf 
+recording: https://youtu.be/2oRkF7NInYs
